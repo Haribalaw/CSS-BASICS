@@ -1,0 +1,30 @@
+.cont1{height: 150px;
+width: 400px;
+background-image:url("https://d1tgh8fmlzexmh.cloudfront.net/ccbp-static-website/arvrbg.png");
+background-size:cover;
+padding-top: 470px;}
+
+.cont2{
+height: 150px;
+width:390px;
+border-radius: 10px;
+background-color: white;
+padding:5px;}
+
+h1{color:#5752ab;}
+
+p{color:#323f4b;}
+
+.box{height: 800px;
+width:400px;}
+
+.b1{background-color: #ffffff;
+color:#171f46;
+border-radius: 5px;
+padding: 10px 20px 10px 20px;margin-left: 40px;}
+
+.b2{background-color: #171f46;
+    color:#ffffff;
+    border-radius: 5px;
+    padding:10px 20px 10px 20px;
+    margin-left: 60px;}

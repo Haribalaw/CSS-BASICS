@@ -1,0 +1,20 @@
+*{font-family: "Bree Serif";}
+
+.cont1{background-image: url("https://d1tgh8fmlzexmh.cloudfront.net/ccbp-static-website/codingbg.png");
+height:470px;
+width:400px;
+padding-top: 180px;
+margin-left: 400px;
+}
+
+
+.cont2{height: 250px;
+width:250px;
+border: solid;
+border-width: 5px;
+border-color: #48ee59;margin:auto;
+padding: 10px;
+}
+
+.para{color:white;
+font-size: 40px;padding:10px 10px 10px 10px}
